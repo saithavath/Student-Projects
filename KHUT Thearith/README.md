@@ -28,7 +28,7 @@
      docker stop homeassistant        # Stop Home Assistant
      docker rm homeassistant          # Remove Home Assistant
      ```
-5. **Home Assistant (Raspberry Pi)** Link tutorial: https://www.home-assistant.io/installation/raspberrypi
+5. **Home Assistant (Raspberry Pi)** Link tutorial: [HOME Assistant with Raspberry Pi](https://www.home-assistant.io/installation/raspberrypi)
 6. **Home Assistant Setting**
 
 
