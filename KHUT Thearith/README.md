@@ -9,7 +9,7 @@
 3. Soldering
 
 4. Home Assistant (Window)
-   Step 1 : Go to install docker in website : https://www.docker.com/products/docker-desktop
+5. Step 1 : Go to install docker in website : https://www.docker.com/products/docker-desktop
    Step 2 : Open Terminal on Window
    Step 3 : Type Command :
             1. docker --version                 // Check Version of Docker
@@ -22,7 +22,7 @@
             6. docker start homeassistant       // Start Server Home Assistant
             7. docker stop homeassistant        // Stop server Home Assistant
             8. docker rm homeassistant          // Remove Home Assistant
-5. ESPHome (Window) (File example name : smarthome.yaml)
+6. ESPHome (Window) (File example name : smarthome.yaml)
    Step 1 : Install Python
    Step 2 : Open Terminal on Window
    Step 3 : Type Command :
