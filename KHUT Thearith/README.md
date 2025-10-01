@@ -4,11 +4,11 @@
 
 ## 📂 List of Subprojects
 
-1. **Ultimaker Maintenant**
+1. **Ultimaker Maintenant** Link youtube: 
 
-2. **Ultimaker User**
+2. **Ultimaker User** Link youtube: 
 
-3. **Soldering**
+3. **Soldering** Link youtube:
 
 4. **Home Assistant (Windows)**
    - **Step 1**: Install Docker from [Docker Desktop](https://www.docker.com/products/docker-desktop)  
