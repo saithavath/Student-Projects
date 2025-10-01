@@ -1,0 +1,31 @@
+esphome:
+  name: smarthome
+  friendly_name: SmartHome
+
+esp32:
+  board: esp32-s3-devkitc-1
+  variant: esp32s3
+  framework:
+    type: esp-idf
+
+wifi:
+  ssid: "Wifi-ssid"
+  password: "password"
+
+  ap:
+    ssid: "smarthome-fallback"
+    password: "12345678"
+
+logger:
+
+api:
+  password: "1212"
+
+ota:
+  - platform: esphome
+    password: "1212"
+
+web_server:
+  port: 80
+
+captive_portal:
