@@ -28,8 +28,11 @@
      docker stop homeassistant        # Stop Home Assistant
      docker rm homeassistant          # Remove Home Assistant
      ```
+5. **Home Assistant (Raspberry Pi)** Link tutorial: https://www.home-assistant.io/installation/raspberrypi
+6. **Home Assistant Setting**
 
-6. **ESPHome (Windows)**  
+
+7. **ESPHome (Windows)**  
    *(Example file: `smarthome.yaml`)*  
    - **Step 1**: Install **Python**  
    - **Step 2**: Open **Terminal** on Windows  
@@ -47,8 +50,8 @@
      esphome run smarthome.yaml       # Compile & upload to ESP device
      esphome logs smarthome.yaml      # View ESPHome logs
      ```
-7. **ESPHome with ESP32 Cam** File name : LBE_Camera.yaml
-8. **PCB Attendance Scan** Folder name : PCB Design Attendance Scan
+8. **ESPHome with ESP32 Cam** File name : LBE_Camera.yaml
+9. **PCB Attendance Scan** Folder name : PCB Design Attendance Scan
 
 ---
 
